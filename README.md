@@ -1,8 +1,6 @@
-### Hi there 👋
+### I'm currently working on my developer profile site, take a look [here](https://ratjuggler.github.io/developer-portfolio/).
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RatJuggler)]
-
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RatJuggler)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RatJuggler)![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RatJuggler)
 
 <!--
 **RatJuggler/RatJuggler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
