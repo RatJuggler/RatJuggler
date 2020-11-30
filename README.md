@@ -1,6 +1,6 @@
 ### I'm currently working on my developer portfolio site, take a look [here](https://ratjuggler.github.io/developer-portfolio/).
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RatJuggler)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RatJuggler&count_private=true)
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RatJuggler&langs_count=8&layout=compact)
 
 <!--
