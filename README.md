@@ -1,4 +1,7 @@
-### I'm working on building another front-end for my [Developer Portfolio](https://github.com/RatJuggler/developer-portfolio) microservices site and improving the [Docker build/deployment process](https://github.com/RatJuggler/my-production-docker-build) for the projects I run on my Raspberry Pi farm. At some point I would like to go back and complete [Advent of Code 2020](https://adventofcode.com/). I hit the wall on day 20, recovered on day 21 but then dropped out on day 22, [see my solutions](https://github.com/RatJuggler/advent-of-code/tree/master/2020) so far.
+### I started a new role so projects have gone into a bit of a hiatus. Items on the list still include:
+- Building another front-end for my [Developer Portfolio](https://github.com/RatJuggler/developer-portfolio) microservices site.
+- Improving the [Docker build/deployment process](https://github.com/RatJuggler/my-production-docker-build) for the projects I run on my Raspberry Pi farm.
+- Go back and complete [Advent of Code 2020](https://adventofcode.com/). I hit the wall on day 20, recovered on day 21 but then dropped out on day 22, [see my solutions](https://github.com/RatJuggler/advent-of-code/tree/master/2020) so far.
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RatJuggler&count_private=true)
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RatJuggler&langs_count=8&layout=compact)
